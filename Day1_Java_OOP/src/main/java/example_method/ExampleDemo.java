@@ -4,7 +4,7 @@ import com.itshiokou.lambda.Student;
 
 import java.util.Arrays;
 
-public class Demo1 {
+public class ExampleDemo {
         public static void test(){
             com.itshiokou.lambda.Student[] students = {
                     new com.itshiokou.lambda.Student("张三", 18, 100, "男"),
