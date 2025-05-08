@@ -10,7 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>day1_0505_GUI_Page</module>
-        <module>Day1_Java_OOP</module>
+        <module>day2_0506_OOP</module>
+        <module>day3_0507_API</module>
     </modules>
 
     <properties>
