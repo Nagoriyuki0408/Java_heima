@@ -3,18 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.example</groupId>
+        <artifactId>Java_Learning</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>Java_Learning</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>day1_0505_GUI_Page</module>
-        <module>day2_0506_OOP</module>
-        <module>day3_0507_API</module>
-        <module>day4_0512_HM</module>
-        <module>day5_0513_GAME</module>
-    </modules>
+    <artifactId>day5_0513_GAME</artifactId>
 
     <properties>
         <maven.compiler.source>23</maven.compiler.source>
